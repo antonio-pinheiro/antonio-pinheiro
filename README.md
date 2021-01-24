@@ -2,7 +2,9 @@
 # Welcome to my Github profile!
 > I'm a Software developer
 
-I have had experiences with the following programming languages.
+I have had experiences with the following programming languages (At personal and academic projects).
+
+
 
 ![](header.png)
 
