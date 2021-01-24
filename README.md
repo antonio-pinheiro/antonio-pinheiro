@@ -67,15 +67,15 @@ I have had experiences with the following operating systems
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
-        <img height="64px" width="100%" src="/svg/windows.svg">
+            <td width="50%" align="center">
+        <img height="96px" width="50%" src="/svg/windows.svg">
             <p>Windows</p>
-           </td>
-      <td width="100%" align="center">
-        <img height="64px" width="100%" src="/svg/linux.png">
-            <p>Linux</p>
             </td>
-      
+            <td width="50%" align="center">
+        <img height="96px" width="100%" src="/svg/linux.png">
+            <p>Linux</p>
+           </td>
+           </tr>
     
   </tbody>
 </table>
