@@ -33,7 +33,7 @@ I have had experiences with the following programming languages and Frameworks (
 </table>
 
 
-Other technologies that I worked
+Other technologies that I worked.
 
 
 <table>
@@ -71,7 +71,7 @@ Other technologies that I worked
 
 
 
-I have had experiences with the following operating systems
+I have had experiences with the following operating systems.
 
 <table>
   <tbody>
