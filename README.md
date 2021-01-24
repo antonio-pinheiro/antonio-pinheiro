@@ -2,7 +2,7 @@
 # Welcome to my Github profile!
 > I'm a Software developer
 
-I have had experiences with the following programming languages and Frameworks(At personal and academic projects).
+I have had experiences with the following programming languages and Frameworks (At personal and academic projects).
 
 <table>
   <tbody>
@@ -33,7 +33,7 @@ I have had experiences with the following programming languages and Frameworks(A
 </table>
 
 
-other technologies that I worked
+Other technologies that I worked
 
 
 <table>
@@ -92,6 +92,8 @@ I have had experiences with the following operating systems
 ![](header.png)
 
 # Currently work on:
+
+Rental Management
 
 Rental Management is a project which is being developed in Java, using the MVC design pattern, Spring Framework and MySql database that runs on a linux Debian server.
 [Rental Management](https://github.com/antonio-pinheiro/rental-management)
