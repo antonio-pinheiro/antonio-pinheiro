@@ -55,6 +55,15 @@ other technologies that I worked
         <img height="64px" width="50%" src="/svg/css3.svg">
           <p>css3</p>
            </td>
+        </tr width="25%" align="center">
+       <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/debian.png">
+          <p>Debian Server</p>
+           </td>
+               <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/unity.svg">
+          <p>Unity</p>
+           </td>
         </tr>
     
   </tbody>
