@@ -7,22 +7,56 @@ I have had experiences with the following programming languages (At personal and
 <table>
   <tbody>
     <tr valign="top">
+            <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/spring.png">
+            <p>Spring Framework</p>
+            </td>
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/java.svg">
-      </td>
+            <p>Java</p>
+            </td>
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/python.svg">
-      </td>
+            <p>Python</p>
+           </td>
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/c#.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" width="50%" src="/svg/html5.svg">
-      </td>
+          <p>C#</p>
+            </td>
+    </tr>
+    <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/js.svg">
+          <p>JavaScript</p>
+            </td>
     </tr>
     
   </tbody>
 </table>
+
+
+other technologies that I worked
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/html5.svg">
+            <p>Windows</p>
+           </td>
+      <td width="50%" align="center">
+        <img height="64px" width="100%" src="/svg/mysql.svg">
+            <p>Linux</p>
+            </td>
+      <td width="50%" align="center">
+        <img height="64px" width="100%" src="/svg/pygame.png">
+            <p>Linux</p>
+            </td>
+      
+    
+  </tbody>
+</table>
+
+
 
 I have had experiences with the following operating systems
 
@@ -31,10 +65,12 @@ I have had experiences with the following operating systems
     <tr valign="top">
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/windows.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="96px" width="50%" src="/svg/linux.svg">
-      </td>
+            <p>Windows</p>
+           </td>
+      <td width="50%" align="center">
+        <img height="64px" width="100%" src="/svg/linux.png">
+            <p>Linux</p>
+            </td>
       
     
   </tbody>
