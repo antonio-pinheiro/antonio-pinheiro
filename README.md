@@ -8,10 +8,10 @@ I have had experiences with the following programming languages (At personal and
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="/svg/java.svg">
+        <img height="64px" width="50%" src="/svg/java.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="/svg/python.svg">
+        <img height="64px" width="50%" src="/svg/python.svg">
       </td>
       <td width="25%" align="center">
         <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/java.svg">
