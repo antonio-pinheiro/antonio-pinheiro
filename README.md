@@ -95,5 +95,5 @@ I have had experiences with the following operating systems
 
 Rental Management
 
-Rental Management is a project which is being developed in Java, using the MVC design pattern, Spring Framework and MySql database that runs on a linux Debian server.
+Rental Management is a project which is being developed in Java, using the MVC design pattern, Spring Framework and MySQL database that runs on a linux Debian server.
 [Rental Management](https://github.com/antonio-pinheiro/rental-management)
