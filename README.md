@@ -82,7 +82,7 @@ I have had experiences with the following operating systems
 
 ![](header.png)
 
-Currently work on:
+# Currently work on:
 
 Rental Management is a project which is being developed in Java, using the MVC design pattern, Spring Framework and MySql database that runs on a linux Debian server.
 [Static GTFS Api](https://github.com/antonio-pinheiro/reantal-management)
