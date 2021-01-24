@@ -8,8 +8,8 @@ I have had experiences with the following programming languages (At personal and
   <tbody>
     <tr valign="top">
             <td width="25%" align="center">
-        <img height="64px" width="50%" src="/svg/spring.png">
-            <p>Spring Framework</p>
+        <img height="30%" width="50%" src="/svg/spring.png">
+            <p>Spring</p>
             </td>
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/java.svg">
@@ -20,7 +20,7 @@ I have had experiences with the following programming languages (At personal and
             <p>Python</p>
            </td>
       <td width="25%" align="center">
-        <img height="64px" width="50%" src="/svg/c#.svg">
+        <img height="64px" width="50%" src="/svg/c.svg">
           <p>C#</p>
             </td>
     </tr>
