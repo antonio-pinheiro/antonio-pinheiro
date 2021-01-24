@@ -14,26 +14,13 @@ I have had experiences with the following programming languages (At personal and
         <img height="64px" width="50%" src="/svg/python.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" width="25%" src="/svg/c#.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" width="25%" src="/svg/html5.svg">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1200px-Groovy-logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://avatars0.githubusercontent.com/u/1481354?s=400&v=4g">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" width="25%" src="https://cdn.svgporn.com/logos/perl.svg">
-      </td>
-    </tr>
+    
   </tbody>
 </table>
 
