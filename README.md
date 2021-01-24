@@ -24,6 +24,22 @@ I have had experiences with the following programming languages (At personal and
   </tbody>
 </table>
 
+I have had experiences with the following operating systems
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/windows.svg">
+      </td>
+      <td width="25%" align="center">
+        <img height="96px" width="50%" src="/svg/linux.svg">
+      </td>
+      
+    
+  </tbody>
+</table>
+
 ![](header.png)
 
 ## Installation
