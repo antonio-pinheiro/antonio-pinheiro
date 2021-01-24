@@ -14,10 +14,10 @@ I have had experiences with the following programming languages (At personal and
         <img height="64px" width="50%" src="/svg/python.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="/svg/c#.svg">
+        <img height="64px" width="50%" src="/svg/c#.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" width="25%" src="/svg/html5.svg">
+        <img height="64px" width="50%" src="/svg/html5.svg">
       </td>
     </tr>
     
