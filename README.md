@@ -2,7 +2,7 @@
 # Welcome to my Github profile!
 > I'm a Software developer
 
-I have had experiences with the following programming languages (At personal and academic projects).
+I have had experiences with the following programming languages and Frameworks(At personal and academic projects).
 
 <table>
   <tbody>
@@ -39,19 +39,23 @@ other technologies that I worked
 <table>
   <tbody>
     <tr valign="top">
+            <td width="25%" align="center">
+        <img height="30%" width="50%" src="/svg/mysql.svg">
+            <p>MySql</p>
+            </td>
       <td width="25%" align="center">
         <img height="64px" width="50%" src="/svg/html5.svg">
-            <p>Windows</p>
+            <p>html5</p>
+            </td>
+      <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/pygame.png">
+            <p>pygame</p>
            </td>
-      <td width="50%" align="center">
-        <img height="64px" width="100%" src="/svg/mysql.svg">
-            <p>Linux</p>
-            </td>
-      <td width="50%" align="center">
-        <img height="64px" width="100%" src="/svg/pygame.png">
-            <p>Linux</p>
-            </td>
-      
+      <td width="25%" align="center">
+        <img height="64px" width="50%" src="/svg/css3.svg">
+          <p>css3</p>
+           </td>
+        </tr>
     
   </tbody>
 </table>
@@ -63,11 +67,11 @@ I have had experiences with the following operating systems
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" width="50%" src="/svg/windows.svg">
+      <td width="50%" align="center">
+        <img height="64px" width="100%" src="/svg/windows.svg">
             <p>Windows</p>
            </td>
-      <td width="50%" align="center">
+      <td width="100%" align="center">
         <img height="64px" width="100%" src="/svg/linux.png">
             <p>Linux</p>
             </td>
