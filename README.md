@@ -1,8 +1,7 @@
-# Hello! I'm Antônio Pinheiro.
-# Welcome to my Github profile!
-> I'm a Software developer
+# Olá meu nome é Antônio Pinheiro.
+# Bem-vindo ao meu perfil no Github!
 
-I have had experiences with the following programming languages and Frameworks (At personal and academic projects).
+Tenho experiência com as seguintes linguagens de programação (Projetos pessoais e projetos acadêmicos).
 
 <table>
   <tbody>
@@ -23,17 +22,15 @@ I have had experiences with the following programming languages and Frameworks (
         <img height="64px" width="50%" src="/svg/c.svg">
           <p>C#</p>
             </td>
-        <td width="20%" align="center">
-        <img height="64px" width="50%" src="/svg/js.svg">
-          <p>JavaScript</p>
-            </td>
-    </tr>
+       
+       
+          
     
   </tbody>
 </table>
 
 
-Other technologies that I worked.
+Outras tecnologias das quais trabalhei.
 
 
 <table>
@@ -71,7 +68,7 @@ Other technologies that I worked.
 
 
 
-I have had experiences with the following operating systems.
+Tenho experiência com os seguintes Sistemas Operacionais.
 
 <table>
   <tbody>
